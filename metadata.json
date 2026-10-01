@@ -1,0 +1,6 @@
+{
+  "name": "ACME Enterprise Knowledge Agent",
+  "description": "Enterprise Teams knowledge bot serving HR, IT, and Operations with ACL verification, source citations, concise answers, and strict guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
